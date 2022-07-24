@@ -1,4 +1,6 @@
 ## Binary Search
 
 ### How it works:
-![gif](https://i.imgur.com/opHB3hg.gif)
+<p align="center">
+<img src="https://i.imgur.com/opHB3hg.gif"/>
+</p>
