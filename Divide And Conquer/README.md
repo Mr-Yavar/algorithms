@@ -5,3 +5,6 @@
 
 ## Example :
 - Binary Search:
+
+
+- Merge Sort:
