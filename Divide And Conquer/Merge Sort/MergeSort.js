@@ -47,8 +47,8 @@ function mergesort(n,S){
 
 
     
-var S = [25,100,1000,14,23,1,2,8,3,9,7,22,44,55];
-mergesort(14,S);
+var S = [38,27,43,3,9,82,10];
+mergesort(7,S);
 
-for(var k=0;k<14;k++)
+for(var k=0;k<7;k++)
     console.log(S[k]);
