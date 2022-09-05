@@ -3,7 +3,8 @@
 using namespace std;
 
 void merge(int p,int m,int A[],int B[],int S[]){
-int i=j=k=0;
+    int i,j,k;
+    i=j=k=0;
     while(i < p && j < m){
         if(A[i] < B[j]){
             S[k]=A[i];
