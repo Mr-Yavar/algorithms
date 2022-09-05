@@ -50,7 +50,7 @@ void sortmerge(int n,int S[]){
 int main()
 {
     
-    int S[] = {[8,27,43,3,9,82,10};
+    int S[] = {8,27,43,3,9,82,10};
     sortmerge(7,S);
     for(int k=0;k<7;k++)
         cout << S[k]<<endl;
